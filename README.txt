@@ -1,0 +1,1 @@
+This project constitutes the second lab exercise in my Machine Learning course. It aims to predict whether customers will take advantage of the store's promotion using different machine learning models. This project was a collaboration with Kristel Lenci Cruz.
